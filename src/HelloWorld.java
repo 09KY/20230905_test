@@ -7,3 +7,5 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 	}
 }
+
+//更新確認用に追記しました
